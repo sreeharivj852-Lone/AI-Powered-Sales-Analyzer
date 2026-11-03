@@ -1,0 +1,5 @@
+google-genai
+mysql-connector-python
+pillow
+matplotlib
+python-dotenv
