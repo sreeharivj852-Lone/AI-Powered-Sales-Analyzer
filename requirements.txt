@@ -1,5 +1,6 @@
-google-genai
-mysql-connector-python
-pillow
-matplotlib
-python-dotenv
+google-genai>=0.1.0
+mysql-connector-python>=8.0.0
+pillow>=10.0.0
+matplotlib>=3.7.0
+python-dotenv>=1.0.0
+sqlparse>=0.5.0
